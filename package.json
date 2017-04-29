@@ -1,0 +1,15 @@
+{
+  "name": "krapowsbot",
+  "version": "1.0.0",
+  "description": "simple telegram bot",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krapows aka YoungSenpai",
+  "license": "ISC"
+}
